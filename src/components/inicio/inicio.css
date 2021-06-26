@@ -1,0 +1,10 @@
+.banner {
+  height: 100vh;
+  background-color: #002748;
+  background-size: cover;
+  background-attachment: fixed;
+}
+.description-container {
+  font-size: 3rem;
+  background-color: transparent;
+}
