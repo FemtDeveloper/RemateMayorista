@@ -1,44 +1,6 @@
-.slider {
-  position: relative;
-  top: 80px;
-  background-color: #002748;
+.carousel-container {
   text-align: center;
-  width: 100%;
 }
-.slides {
-  display: flex;
-  width: 300%;
-  background-color: #002748;
-  overflow: hidden;
-}
-.slides input {
-  display: none;
-}
-
-img {
-  border-radius: 10px;
-  width: 95%;
-  margin-bottom: 10px;
-}
-.slide {
-  width: 50%;
-  transition: 3000ms;
-}
-.navigation-manual {
-  display: flex;
-  margin-top: -30px;
-  justify-content: center;
-}
-.manual-btn {
-  border: 2px solid rgb(201, 201, 248);
-  padding: 5px;
-  border-radius: 10px;
-  cursor: pointer;
-  transition: 1000ms;
-}
-.manual-btn:not(:last-child) {
-  margin-right: 3rem;
-}
-.manual-btn:hover {
-  background: rgb(201, 201, 248);
+.slide-container .legend {
+  background-color: transparent;
 }

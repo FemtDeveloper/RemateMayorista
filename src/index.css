@@ -6,3 +6,13 @@
 html {
   font-size: 62.5%;
 }
+.carousel-root {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  max-height: 500px;
+  margin-bottom: 60px;
+}
+.carousel {
+  top: 80px;
+}

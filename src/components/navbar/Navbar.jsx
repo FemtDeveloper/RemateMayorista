@@ -33,7 +33,6 @@ const Navbar = () => {
           <Link to="/niños">Niños</Link>
         </div>
       </div>
-      <Banner />
     </header>
   );
 };

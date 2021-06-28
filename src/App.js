@@ -8,7 +8,7 @@ function App() {
   return (
     <Router>
       <Navbar />
-      {/* <Banner /> */}
+      <Banner />
       <Switch>
         <Route path="/hombres">
           <Hombres />
