@@ -1,6 +1,6 @@
 import React from "react";
 
-const Mujeres = () => {
+const Mujeres  = () => {
   return <div></div>;
 };
 
