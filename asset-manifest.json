@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/RemateMayorista/static/css/main.ac8fba1f.chunk.css",
+    "main.js": "/RemateMayorista/static/js/main.c69c0cee.chunk.js",
+    "main.js.map": "/RemateMayorista/static/js/main.c69c0cee.chunk.js.map",
+    "runtime-main.js": "/RemateMayorista/static/js/runtime-main.add88922.js",
+    "runtime-main.js.map": "/RemateMayorista/static/js/runtime-main.add88922.js.map",
+    "static/css/2.6b560088.chunk.css": "/RemateMayorista/static/css/2.6b560088.chunk.css",
+    "static/js/2.57f45e24.chunk.js": "/RemateMayorista/static/js/2.57f45e24.chunk.js",
+    "static/js/2.57f45e24.chunk.js.map": "/RemateMayorista/static/js/2.57f45e24.chunk.js.map",
+    "index.html": "/RemateMayorista/index.html",
+    "static/css/2.6b560088.chunk.css.map": "/RemateMayorista/static/css/2.6b560088.chunk.css.map",
+    "static/css/main.ac8fba1f.chunk.css.map": "/RemateMayorista/static/css/main.ac8fba1f.chunk.css.map",
+    "static/js/2.57f45e24.chunk.js.LICENSE.txt": "/RemateMayorista/static/js/2.57f45e24.chunk.js.LICENSE.txt",
+    "static/media/banner1.a3b1ab9a.jpg": "/RemateMayorista/static/media/banner1.a3b1ab9a.jpg",
+    "static/media/banner2.4c9fa0d1.jpg": "/RemateMayorista/static/media/banner2.4c9fa0d1.jpg",
+    "static/media/banner3.a652c8c8.jpg": "/RemateMayorista/static/media/banner3.a652c8c8.jpg",
+    "static/media/hombre1.cc9b9af2.jpg": "/RemateMayorista/static/media/hombre1.cc9b9af2.jpg",
+    "static/media/hombre2.027d640a.jpg": "/RemateMayorista/static/media/hombre2.027d640a.jpg",
+    "static/media/hombre3.41bc547c.jpg": "/RemateMayorista/static/media/hombre3.41bc547c.jpg",
+    "static/media/hombre4.4fa3f99c.jpg": "/RemateMayorista/static/media/hombre4.4fa3f99c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.add88922.js",
+    "static/css/2.6b560088.chunk.css",
+    "static/js/2.57f45e24.chunk.js",
+    "static/css/main.ac8fba1f.chunk.css",
+    "static/js/main.c69c0cee.chunk.js"
+  ]
+}
