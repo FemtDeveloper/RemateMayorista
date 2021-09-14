@@ -5,6 +5,8 @@
   background-attachment: fixed;
 }
 .description-container {
-  font-size: 3rem;
+  font-size: 2rem;
   background-color: transparent;
+  text-align: center;
+  padding: 10px;
 }
