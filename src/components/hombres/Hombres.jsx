@@ -1,6 +1,6 @@
 import React from "react";
 import "./hombres.css";
-import manPhotos from "../../enums/photos";
+import manPhotos from "../../multimedia/photos";
 
 const Hombres = () => {
   return (
