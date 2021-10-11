@@ -5,13 +5,10 @@ const Inicio = () => {
   return (
     <>
       <section className="description-container">
-        <h2>Todos</h2>
+        <h1>Todos</h1>
         <p>
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Soluta
-          temporibus nam fuga odit officiis corporis? Voluptatibus tempore quia
-          repellendus cum enim dolorem fugiat, deserunt esse recusandae culpa
-          totam cumque fuga. Lorem ipsum dolor sit amet consectetur, adipisicing
-          elit.
+          En Home encontraras todas las secciones como lo son: Niños Hombres
+          Mujeres
         </p>
       </section>
     </>
